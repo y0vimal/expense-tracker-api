@@ -1,36 +1,8 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-.mvn
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDNgirVxwa+WHeuGtKbE2J12pVCWmvg/Z5rU1biMm7r1/qav2BYMubE1qPL6FYYL3c3L3jS4v/D154j7cptnSaKzRWHO00+Y5mHTyX0wiz0lvz9qFXEz6xpwh7RHvrYnfg1y9wCzdtyrOeJgj4IltvapBly2CpEW6opfJi+m19g0fcdlv9Mc8RWwsctgslzQTPelsVtjjD3vx7EfX5T4XmxPO5TCRvkZTck8BQy3Lf852YCRCR67NWOTzH+3H1ytrkYJGMQZfqoIgNeg9FiLkDxsp/GIDTcbzYRgFSM/rzxgwJz2S0F72PQclEXilccucT+KsOr87KLfEBs6vzpf/GFrtVRqLKtxGQnRnhdObrZx8EAtgTsTPTR3YQ2nf5x+7BXyMEzNXLYfuTREsevfF/3qVw7F6rbW5j19L3PGr+ElwPKEuB2IRP5R7qYEA3/WQWacpk2g5AR2CGHwgTSQNdSO3zNmPBDXJd30zwhOIp9Vb5QSBQU16vY+jefoYrY/mmZB9oW4rHk5JzD12a+/Rt0TFi/AxySMsI8LhjZnFSWIMGRzJHzCvBmCo0pn8H+VmDMDg43pK4Zw/VwoygCYek6WdnPuaVZaRv7ej0NjZ0OxHTdNil1uzsoqJZMC+a9KFbyWQ0oFMKM2GBopohJq6hlZ1Utdwrm9exQrTd1ku/nOQ== mailtovimal87@gmail.com
+/README.md
+/expense-tracker-api.iml
+/HELP.md
 /mvnw
 /mvnw.cmd
+/.idea/
+/.mvn/
